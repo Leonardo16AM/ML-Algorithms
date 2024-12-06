@@ -1,0 +1,15 @@
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.AssemblyInfoInputs.cache
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.AssemblyInfo.cs
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.csproj.CoreCompileInputs.cache
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.sourcelink.json
+E:\Universidad\ML\ML-Algorithms\Neural Network\bin\Debug\net8.0\Neural Network.exe
+E:\Universidad\ML\ML-Algorithms\Neural Network\bin\Debug\net8.0\Neural Network.deps.json
+E:\Universidad\ML\ML-Algorithms\Neural Network\bin\Debug\net8.0\Neural Network.runtimeconfig.json
+E:\Universidad\ML\ML-Algorithms\Neural Network\bin\Debug\net8.0\Neural Network.dll
+E:\Universidad\ML\ML-Algorithms\Neural Network\bin\Debug\net8.0\Neural Network.pdb
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.dll
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\refint\Neural Network.dll
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.pdb
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\Neural Network.genruntimeconfig.cache
+E:\Universidad\ML\ML-Algorithms\Neural Network\obj\Debug\net8.0\ref\Neural Network.dll
