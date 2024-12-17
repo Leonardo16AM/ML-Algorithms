@@ -5,8 +5,8 @@ Machine Learning algorithms programmed in C++ just for fun.
 - [x] Autograd
 - [x] Neural Network
 - [x] KNN
-- [ ] Decision Trees ID3
-- [ ] Naive Bayes
+- [x] Decision Trees ID3
+- [x] Naive Bayes
 - [ ] SVM
 - [ ] Linear Regression
 - [ ] Logistic Regression

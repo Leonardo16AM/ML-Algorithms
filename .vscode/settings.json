@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tsz": "sql",
+        "algorithm": "cpp"
+    }
+}
